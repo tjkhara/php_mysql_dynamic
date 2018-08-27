@@ -3,11 +3,11 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="db7e81ba-b12d-4193-aa90-56025a552e41" name="Linux Server (project level)" url="http://sandbox.develop:8080/phpDynamic/">
-        <fileTransfer host="sandbox.develop" port="2222" accessType="SFTP">
+        <fileTransfer host="sandbox.develop" port="7777" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="2222" />
+          <option name="port" value="7777" />
         </fileTransfer>
       </webServer>
     </option>
